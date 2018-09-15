@@ -18,8 +18,7 @@ if (string.toUpperCase===a) then
 {
 return "YES INDEED!";
 } 
-elseif
-{
+else 
 if (string.toLowerCase===a) then
 {
 return "I can't hear you!";
