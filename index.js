@@ -14,12 +14,12 @@ function logWhisper(string) {
 }
 function sayHiToGrandma(string){
   var a=console.log(string)
-if (a==="HELLO") then
+if (a=="HELLO") then
 {
 return "YES INDEED!";
 } 
 
-if (a==="hello") then
+if (a=="hello") then
 {
 return "I can't hear you!";
 } 
