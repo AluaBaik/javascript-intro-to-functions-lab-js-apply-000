@@ -23,8 +23,4 @@ if (string.toLowerCase===a) then
 return "I can't hear you!";
 } 
  
-if ((string.toUpperCase!=a) and (string.toLowerCase!=a)) then
-{
-return "I love you, too."
-}
 }
