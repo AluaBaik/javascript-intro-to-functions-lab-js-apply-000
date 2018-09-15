@@ -22,5 +22,5 @@ if (a==="I love you, Grandma."){
 if (a==="hello"){
   console.log("I can't hear you!")
 }
-return console.log()
+return a
 }
