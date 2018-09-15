@@ -20,6 +20,9 @@ if (string.toUpperCase===a){
 if (string.toLowerCase===a){
   return console.log("I can't hear you!")
 }
+if(a==="I love you, Grandma."){
+  return ("I love you, too!")
+}
 return console.log(a)
 
 }
