@@ -14,14 +14,14 @@ function logWhisper(string) {
 }
 function sayHiToGrandma(string){
   var a=console.log(string)
-if (string.toUpperCase===a) then
+if (a==="HELLO") then
 {
 return "YES INDEED!";
 } 
-else 
-if (string.toLowerCase===a) then
+
+if (a==="hello") then
 {
 return "I can't hear you!";
 } 
-}
+
 }
